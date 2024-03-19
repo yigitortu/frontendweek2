@@ -1,0 +1,26 @@
+.nav-bar {
+    text-align: center;
+    font-size: 33px;
+}
+
+.motors {
+    text-align: center;
+    list-style-position: inside;
+    
+}
+
+.motors-title-fs {
+    font-size: x-large;
+}
+
+.motors-description-fs {
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.about-us-description{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
