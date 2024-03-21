@@ -1,0 +1,50 @@
+.homepagetitle {
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+nav {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    font-size: 24px;
+    text-decoration: none;
+    padding: 10px;
+}
+
+article {
+    text-align: center;
+}
+
+.yuruyenfoto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    width: 800;
+    height: 600px;
+}
+
+footer {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.igicon:hover {
+    color: red;
+ }
